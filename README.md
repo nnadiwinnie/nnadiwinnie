@@ -4,9 +4,8 @@
 
 ---
 
-I am a first-class Chemical/Petrochemical Engineering graduate with a focused interest in process optimization, currently building data science skills to pursue it more deeply. My engineering foundation covers process simulation (Aspen HYSYS and Aspen Plus), PFD and P&ID interpretation, and process engineering fundamentals. I am now layering data analysis on top of that foundation using Python, SQL, Excel, and Power BI, working towards a career as an Energy Process Optimization Data Scientist.
-My projects apply this combination directly: I use engineering domain knowledge to frame the right problem, and data analysis tools to diagnose inefficiencies, define optimal operating conditions, and communicate findings in a way that process engineers and operations teams can act on.
-Outside of technical work, I share knowledge through public speaking and professional engagement, helping others build confidence in their own journey.
+First-class Chemical/Petrochemical Engineering graduate with a foundation in process simulation (Aspen HYSYS & Aspen Plus), PFD/P&ID interpretation, and process engineering fundamentals. I have hands-on data analysis skills in Python, SQL, Power BI, and Excel, and I am building towards a career as an Energy Process Optimization Data Scientist.
+My projects sit at the intersection of engineering and data: I use domain knowledge to frame the right problem and analytical tools to diagnose inefficiencies, define optimal operating conditions, and deliver findings that engineers can act on.
 
 > *"I help energy companies find and fix the inefficiencies hiding in their process data."*
 
@@ -34,27 +33,11 @@ These projects are built in research-paper format, each one frames a real energy
 
 ---
 
-### 🔍 What I Am Currently Working On
-
-- 📊 Building projects around energy process optimization using Python, SQL, Excel, and Power BI
-- 📝 Writing technical content on energy process optimization using data science
-
----
-
-### 🧠 My Approach
-
-I follow a structured **Diagnose → Optimize → Monitor** framework for every project:
-
-- **Diagnose** — identify which process variables are driving underperformance and under what conditions
-- **Optimize** — define the operating window that maximizes the target metric without sacrificing balance
-- **Monitor** — communicate findings through dashboards and recommendations actionable by engineers
-
----
-
 ### 🎓 Education & Credentials
 
-- 🎓 B.Tech. Chemical/Petrochemical Engineering — First Class Honours
-- 📜 Business Analytics with Excel — ShePlusTech × Coursera (Johns Hopkins)
+- 🎓 B.Tech. Chemical/Petrochemical Engineering - First Class Honours
+- 📜 Data Analyst Bootcamp - Udemy 
+- 📜 Business Analytics with Excel - Johns Hopkins University
 
 ---
 
@@ -64,4 +47,4 @@ I follow a structured **Diagnose → Optimize → Monitor** framework for every 
 
 ---
 
-*Currently building. Always learning. Grounded in engineering. Driven by data.*
+*Grounded in engineering. Driven by data.*
