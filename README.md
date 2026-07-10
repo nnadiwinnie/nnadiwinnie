@@ -24,11 +24,11 @@ My projects sit at the intersection of engineering and data: I use domain knowle
 
 ### 📂 Portfolio Projects
 
-These projects are built in research-paper format, each one frames a real energy process problem, applies a full data analysis workflow, and delivers actionable engineering recommendations.
+These projects are built in research-paper format; each one frames a real energy process problem, applies a full data analysis workflow, and delivers actionable engineering recommendations.
 
 | # | Project | Domain | Tools | 
 
-| 01 | [FCC Unit Gasoline Yield Analysis & Optimization](https://github.com/yourusername/fcc-yield-optimization) | Oil & Gas | Python, SQL, Power BI, Excel | 
+| 01 | [FCC Unit Gasoline Yield Analysis & Optimization](https://github.com/nnadiwinnie/fcc_yield_optimization) | Oil & Gas | Python, SQL, Power BI, Excel | 
 
 
 ---
