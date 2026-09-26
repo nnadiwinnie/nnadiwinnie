@@ -1,11 +1,10 @@
-# Hi, I'm Winnie 👋
+# Hi, I'm Winnie NNADI👋
 
-### Chemical Engineering Graduate | Data Analyst | Energy & Process Optimization
+### Chemical Engineering Graduate | Energy Process Optimization | Data Science
 
 ---
 
-First-class Chemical/Petrochemical Engineering graduate with a foundation in process simulation (Aspen HYSYS & Aspen Plus), PFD/P&ID interpretation, and process engineering fundamentals. I have hands-on data analysis skills in Python, SQL, Power BI, and Excel, and I am building towards a career as an Energy Process Optimization Data Scientist.
-My projects sit at the intersection of engineering and data: I use domain knowledge to frame the right problem and analytical tools to diagnose inefficiencies, define optimal operating conditions, and deliver evidence-based recommendations.
+First-class Chemical/Petrochemical Engineering graduate who has optimized gasoline yield in an FCC unit using Python, SQL, and Power BI, delivering a +3.23-percentage-point yield improvement, and simulated the Wet Air Oxidation process in Aspen Plus, achieving contaminant removal efficiencies of up to 99%. Building toward a career in energy process optimization, where chemical engineering domain knowledge and data science work together to make energy processes run smarter, cleaner, and more efficiently.
 
 > *"I use data to diagnose inefficiencies, optimize performance, and support better decision-making."*
 
