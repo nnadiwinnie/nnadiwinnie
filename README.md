@@ -1,6 +1,6 @@
 # Hi, I'm Winnie NNADI👋
 
-### Chemical Engineering Graduate | Energy Process Optimization | Data Science
+### Chemical Engineer | Energy Process Optimization | Data Science
 
 ---
 
