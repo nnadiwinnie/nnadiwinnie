@@ -6,7 +6,7 @@
 
 First-class Chemical/Petrochemical Engineering graduate who has optimized gasoline yield in an FCC unit using Python, SQL, and Power BI, delivering a +3.23-percentage-point yield improvement, and simulated the Wet Air Oxidation process in Aspen Plus, achieving contaminant removal efficiencies of up to 99%. Building toward a career in energy process optimization, where chemical engineering domain knowledge and data science work together to make energy processes run smarter, cleaner, and more efficiently.
 
-> *"I use data to diagnose inefficiencies, optimize performance, and support better decision-making."*
+> *"I use engineering knowledge and data science to optimize energy processes and make operations run better."*
 
 ---
 
