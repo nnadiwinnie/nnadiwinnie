@@ -28,6 +28,8 @@ These projects are built in research-paper format; each one frames a real energy
 | # | Project | Domain | Tools | 
 
 | 01 | [FCC Unit Gasoline Yield Analysis & Optimization](https://github.com/nnadiwinnie/fcc_yield_optimization) | Oil & Gas | Python, SQL, Power BI, Excel | 
+
+
 | 02 | [Wet Air Oxidation for Hospital Wastewater Treatment](https://github.com/nnadiwinnie/WAO_Hospital_Wastewater_Treatment) | Oil & Gas | Aspen Plus, Microsoft Excel | 
 
 
